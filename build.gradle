@@ -105,7 +105,7 @@ android {
         versionCode 42117
         versionName "2.16.6"
         archivesBaseName += "-$versionName"
-        applicationId "eu.siacs.conversations"
+        applicationId "eu.siacs.conversations.fork"
         resValue "string", "applicationId", applicationId
         def appName = "Conversations"
         resValue "string", "app_name", appName
